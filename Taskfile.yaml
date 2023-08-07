@@ -1,0 +1,6 @@
+version: '3'
+
+tasks:
+  run-dev:
+    cmds:
+      - npm run dev
